@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">MyLogin</string>
     <string name="login_area">Login Area</string>
-    <string name="dark_app">Dark App</string>
+    <string name="dark_app">HealtyGreen</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">LOGIN</string>
